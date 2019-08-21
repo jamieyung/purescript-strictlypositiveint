@@ -1,0 +1,20 @@
+{
+  "name": "purescript-strictlypositiveint",
+  "author": "Jamie Yung <jamie.yung286@gmail.com>",
+  "description": "Strictly positive integers (1, 2, 3, ...)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jamieyung/purescript-strictlypositiveint.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      "purescript-prelude": "4.1.0"
+  }
+}
